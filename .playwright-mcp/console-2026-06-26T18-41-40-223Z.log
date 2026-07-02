@@ -1,0 +1,11 @@
+[    6016ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/api/v1/app/event/open:0
+[    6433ms] [LOG] INITIAL -> (5, 0, ) -> RUNNING @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/bufferedData-BLBjm2ut.js:4
+[    6442ms] [WARNING] Unrecognized feature: 'ambient-light-sensor'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6442ms] [WARNING] Unrecognized feature: 'battery'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6442ms] [WARNING] Unrecognized feature: 'document-domain'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6442ms] [WARNING] Unrecognized feature: 'layout-animations'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6442ms] [WARNING] Unrecognized feature: 'legacy-image-formats'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6442ms] [WARNING] Unrecognized feature: 'oversized-images'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6442ms] [WARNING] Unrecognized feature: 'vr'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6442ms] [WARNING] Unrecognized feature: 'wake-lock'. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/-/build/assets/routes-D-0PURmq.js:0
+[    6800ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://big-tech-stocks-hq5dwkokv7hxmger5sbljs.streamlit.app/~/+/:0
